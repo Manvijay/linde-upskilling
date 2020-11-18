@@ -1,3 +1,3 @@
 Upskilling Session Linde
 
-First Feature
+First Feature Added to the project
